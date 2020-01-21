@@ -6,6 +6,8 @@ Created on Tue Jul  9 10:11:12 2019
 @author: Sema
 From a dataframe about user information, create a profile for a user. 
 
+For generating data
+
 """
 import logging
 import pickle
